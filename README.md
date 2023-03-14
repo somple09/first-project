@@ -1,3 +1,3 @@
 # first-project
 
-으악
+피라미드 출력하기
